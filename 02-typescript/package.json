@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "@types/lodash": "^4.14.168",
+    "dayjs": "^1.10.4",
+    "lodash": "^4.17.21",
+    "typescript": "^4.1.5"
+  }
+}
